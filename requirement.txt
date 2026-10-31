@@ -1,7 +1,0 @@
-@"
-pandas
-numpy
-scikit-learn
-lightgbm
-joblib
-"@ | Out-File -Encoding ascii requirements.txt
